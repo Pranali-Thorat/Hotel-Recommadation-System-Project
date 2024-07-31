@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8069ee47-5f81-48c7-a92d-4321e0dfd5e6)# Hotel-Recommadation-System-Project
+
 
     One of the first things to do while planning a trip is to book a good place to stay. Booking a hotel online can be an overwhelming task with thousands of hotels to choose from, for every destination. Motivated by the importance of these situations, we decided to work on the task of recommending hotels to users.
     
@@ -17,5 +17,6 @@ The major objectives of Hotel Recommendation System are as:
 4)	Easy to use and navigate.
 
 5)Develop a user-friendly interface to capture user preferences effectively.
+![image](https://github.com/user-attachments/assets/8069ee47-5f81-48c7-a92d-4321e0dfd5e6)# Hotel-Recommadation-System-Project
 
 
