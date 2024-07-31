@@ -17,6 +17,8 @@ The major objectives of Hotel Recommendation System are as:
 4)	Easy to use and navigate.
 
 5)Develop a user-friendly interface to capture user preferences effectively.
+
+
 Database Tables:-
 ![image](https://github.com/user-attachments/assets/8069ee47-5f81-48c7-a92d-4321e0dfd5e6)# Hotel-Recommadation-System-Project
 
