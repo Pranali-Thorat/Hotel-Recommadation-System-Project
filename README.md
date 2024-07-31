@@ -2,7 +2,7 @@
 
     One of the first things to do while planning a trip is to book a good place to stay. Booking a hotel online can be an overwhelming task with thousands of hotels to choose from, for every destination. Motivated by the importance of these situations, we decided to work on the task of recommending hotels to users.
     
-            The Hotel Recommendation System aims to helps users in finding suitable hotels based on previous customer reviews and ratings. With the increasing use of online hotel searches and the abundance of information available, it can be time-consuming for travelers to find a suitable hotel . Recommendation systems can process and collect data from various networks and utilize historical user preference data to provide accurate recommendations.
+            The Hotel Recommendation System aims to helps users in finding suitable hotels based on previous customer  ratings. With the increasing use of online hotel searches and the abundance of information available, it can be time-consuming for travelers to find a suitable hotel . Recommendation systems can process and collect data from various networks and utilize historical user preference data to provide accurate recommendations.
 
 Objectives:
 
